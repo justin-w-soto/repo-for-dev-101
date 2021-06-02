@@ -1,11 +1,7 @@
 # Day one notes
 
-## is this working?
-### yes it is.
-### these headings are markdown notes
-
-
-TIL:
-* don't drink 4 cups of coffee before class
-* it's ok to cry
-* stop crying and get back to wor
+## commands
+* cd to change a directory
+* ls for a list 
+* use arrow keys to find previously used commands
+* rm to remove
